@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>นโยบายความเป็นส่วนตัว บอทจัดการเซิร์ฟเวอร์ Discord</title>
+</head>
+<body style="max-width:800px;margin:30px auto;padding:0 20px;font-family:sans-serif;line-height:1.6;">
+<h1>นโยบายความเป็นส่วนตัว</h1>
+<p>บอทนี้เป็นบอทจัดการชุมชน Discord ทำหน้าที่กรองสแปม บล็อกลิงก์อันตราย ยืนยันสมาชิกใหม่ และป้องกันการบุกเซิร์ฟเวอร์</p>
+<p>บอทประมวลผลข้อมูลข้อความและข้อมูลสมาชิกชั่วคราวในหน่วยความจำเท่านั้น ไม่บันทึก ไม่เก็บถาวร และไม่แชร์ข้อมูลส่วนตัวของผู้ใช้กับบุคคลที่สาม</p>
+</body>
+</html>
